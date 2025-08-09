@@ -1,1 +1,1 @@
-export const UPLOAD_PASSCODE = 'david1' // Change to your passcode
+export const UPLOAD_PASSCODE = 'bar1' // Change to your passcode
